@@ -1,4 +1,4 @@
-This is the first line of text
-This is the seconds line of text
-This is third line of text
+Hello World
+My name is Anders Magnusson
+I live in the Goteborg city
 This is the fourth line of text
